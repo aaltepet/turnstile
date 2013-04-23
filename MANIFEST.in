@@ -1,3 +1,4 @@
 include LICENSE README.rst
 include tests/*.py
+include .requires
 graft bin
